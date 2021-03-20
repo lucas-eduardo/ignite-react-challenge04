@@ -9,7 +9,7 @@
 <p align="center">“Se tu o desejas, podes voar, só tens de confiar muito em ti.”</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucas-eduardo/ignite-challenge4?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucas-eduardo/ignite-react-challenge04?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
